@@ -11,7 +11,7 @@ Mehmet Akif Ersoy Üniversitesi **Bilişim Sistemleri ve Teknolojileri** bölüm
 
 ---
 
-### 🤖 TEKNOFEST Projesi: S.İ.A.R. (Sera İşlemleri Akıllı Robotu)
+### 🤖 TEKNOFEST Projesi: S.İ.A.R. (Sera İçi Araştıma Robotu)
 Bu projede, tarımsal verimliliği artırmayı hedefleyen otonom bir sistem üzerinde çalışıyorum. S.İ.A.R. ekibinde görüntü işleme süreçlerinden sorumluyum.
 - **Hastalık Teşhisi:** Sera içerisindeki bitki yapraklarını analiz ederek hastalıkların erken teşhis edilmesi süreçlerini geliştiriyorum.
 - **Derin Öğrenme:** Derin öğrenme mimarilerini kullanarak yüksek doğruluk payına sahip sınıflandırma modelleri üzerinde çalışıyorum.
