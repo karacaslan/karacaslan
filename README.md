@@ -43,6 +43,3 @@ Bu projede, tarımsal verimliliği artırmayı hedefleyen otonom bir sistem üze
 - 💼 **LinkedIn:** [Aslan Karaca](https://www.linkedin.com/in/aslan-karaca-10b501322/)
 
 ---
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
