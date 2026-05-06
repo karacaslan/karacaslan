@@ -7,12 +7,12 @@
 ---
 
 ### 🚀 Hakkımda
-Mehmet Akif Ersoy Üniversitesi **Bilişim Sistemleri ve Teknolojileri** bölümünde eğitimime devam ediyorum. Akademik çalışmalarımın yanı sıra görüntü işleme ve siber güvenlik alanlarında teknik yetkinliklerimi geliştiriyorum. Proje tabanlı öğrenme yaklaşımını benimsiyor, özellikle otonom sistemler ve ağ güvenliği üzerine odaklanıyorum.
+Mehmet Akif Ersoy Üniversitesi **Bilişim Sistemleri ve Teknolojileri** bölümünde eğitimime devam ediyorum. Akademik çalışmalarımın yanı sıra görüntü işleme ve siber güvenlik alanlarında teknik yetkinliklerimi geliştiriyorum. Proje tabanlı öğrenme yaklaşımını benimsiyor, özellikle görüntü işleme teknolojileri ve web pentesting alanlarına ilgi duyuyorum.
 
 ---
 
-### 🤖 TEKNOFEST Projesi: S.İ.A.R. (Sera İçi Araştıma Robotu)
-Bu projede, tarımsal verimliliği artırmayı hedefleyen otonom bir sistem üzerinde çalışıyorum. S.İ.A.R. ekibinde görüntü işleme süreçlerinden sorumluyum.
+### 🤖 TEKNOFEST Projesi: S.i.A.R (Sera İçi Araştıma Robotu)
+Bu projede, tarımsal verimliliği artırmayı hedefleyen otonom bir sistem üzerinde çalışıyorum. S.i.A.R ekibinde görüntü işleme süreçlerinden sorumluyum.
 - **Hastalık Teşhisi:** Sera içerisindeki bitki yapraklarını analiz ederek hastalıkların erken teşhis edilmesi süreçlerini geliştiriyorum.
 - **Derin Öğrenme:** Derin öğrenme mimarilerini kullanarak yüksek doğruluk payına sahip sınıflandırma modelleri üzerinde çalışıyorum.
 - **Otonom Kontrol:** Raspberry Pi ve çeşitli sensörlerle entegre çalışan, görüntü işleme destekli karar verme mekanizmaları kurguluyorum.
