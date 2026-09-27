@@ -29,12 +29,6 @@ Bu projede, tarımsal verimliliği artırmayı hedefleyen otonom bir sistem üze
 
 ---
 
-### 📚 Sertifikalar & Eğitimler
-| Eğitim Platformu | Kurs Adı | Link |
-| :--- | :--- | :--- |
-| **OpenCV.org** | OpenCV 101: Beginners | [İncele](https://courses.opencv.org/courses/course-v1:OpenCV+101+Beginners/course/) |
-| **Udemy** | Python: Sıfırdan İleri Seviyeye | [İncele](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) |
-| **Udemy** | Web Sızma Testleri (Pentesting) | [İncele](https://www.udemy.com/course/web-pentesting/) |
 
 ---
 
